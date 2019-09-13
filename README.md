@@ -1,5 +1,7 @@
 <h3>SQL_T-SQL_and_NoSQL</h3>
 
+Um pouco sobre banco de dados: SQL e NoSQL
+
 ![vector-flat-database-icons](https://user-images.githubusercontent.com/19534807/64876677-0c00ef80-d626-11e9-9a6b-d2adfcb738ac.jpg)
 
 ADD listas de exercicios SQL.
