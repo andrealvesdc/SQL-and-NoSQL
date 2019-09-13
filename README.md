@@ -1,5 +1,6 @@
-# SQL_T-SQL_and_NoSQL
-Listas, exercícios, assuntos e pequenos projetos de SQL, T-SQL e NoSQL.
+<h3>SQL_T-SQL_and_NoSQL</h3>
+
+![vector-flat-database-icons](https://user-images.githubusercontent.com/19534807/64876677-0c00ef80-d626-11e9-9a6b-d2adfcb738ac.jpg)
 
 ADD listas de exercicios SQL.
 
